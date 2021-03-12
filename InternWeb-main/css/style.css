@@ -1,0 +1,63 @@
+body {
+  font-style: italic;
+  margin-left: 20px;
+  padding-top: 10px;
+
+
+}
+h1{
+  color:#cdac81;
+  padding-top: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+h3{
+  color:#30475e;
+}
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+/************************************CLASS**************************/
+.title{
+  padding-top: 10px;
+  font-size: 30px;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+
+.left-container{
+  /*content*/
+  float: left;
+  height: 700px;
+  width: 300px;
+  text-align: left;
+  background-color: white;
+  border:solid;
+}
+.content{
+
+}
+
+.right-container{
+  float: right;
+  height: 700px;
+  width: 300px;
+  text-align: right;
+  background-color: white;
+  border:solid;
+}
+.i1{
+  left:1100px;
+  top: 10px;
+  padding-bottom: 50px;
+}
+
+
+/*******************************************************************/
